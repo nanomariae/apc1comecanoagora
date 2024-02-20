@@ -1,5 +1,6 @@
 # apc1comecanoagora
-ⲯ﹍︿﹍︿﹍ 𝚢𝚊𝚠 ﹍ⲯ﹍ⲯ﹍︿﹍☼ 🤠🌵 
+Repositório de Teste das Aulas de Algoritmos e Programação de Computadores
+ⲯ﹍︿﹍︿﹍ 𝚢𝚊y ﹍ⲯ﹍ⲯ﹍︿﹍☼ 🤠🌵 
 estudante sonsa de eng da computação começano a estudar programação, come cano agr
 
 | Escuta aqui, por que você não pega as suas  
